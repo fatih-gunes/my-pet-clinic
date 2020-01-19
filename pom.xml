@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:fatih-gunes/my-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+<!--        <tag>HEAD</tag>-->
     </scm>
 
 </project>
