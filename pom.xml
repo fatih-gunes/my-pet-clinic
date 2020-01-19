@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.gunessoftware</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
     <name>my-pet-clinic</name>
     <description>My Pet Clinic Project</description>
 
@@ -46,7 +46,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/fatih-gunes/my-pet-clinic.git</developerConnection>
 <!--        <tag>HEAD</tag>-->
-      <tag>my-pet-clinic-0.0.4</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
